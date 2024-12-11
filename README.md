@@ -1,4 +1,5 @@
-Project done by Latha MK on 12/10/2024
+Project done by Latha MK on 12/10/2024 
+Link to the project file https://github.com/lathamk4/UC-Berkeley-ML-and-AI/Module5.ipynb
 Business Understanding - Will a customer accept the coupon?” Analysing different paramters Why custoomer accepted few copuons
 Data Understanding and Preparation: 
   The coupon dataset was provided by Amazon and cleaning up of data was done to replace null values with "never" 
