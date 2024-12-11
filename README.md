@@ -41,12 +41,12 @@ In the independent investigation, The carry on or Take away copuons acceptance r
      
      bar plot of Gender column - There is no difference with the acceptance rate with Gender 
     ![12](https://github.com/user-attachments/assets/131e6dab-2bbb-4cb0-9826-edd787da96b6)
-
      
      Histo plot of the age column
     ![13](https://github.com/user-attachments/assets/fa6353ff-e2d8-41ad-a93f-f84537884a7c)
      
-     A pie chart was created to understand the occupation of people who accepted most coupons . The pie chart helped identify outliers like "Farming, Fishing & Forestry department", Production occupation, personal care etc
+     A pie chart was created to understand the occupation of people who accepted most coupons . 
+     The pie chart helped identify outliers like "Farming, Fishing & Forestry department", Production occupation, personal care etc
 
      ![14](https://github.com/user-attachments/assets/0794332c-6c8d-4c22-93e6-cc613319bb1b)
 
